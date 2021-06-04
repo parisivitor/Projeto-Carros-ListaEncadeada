@@ -1,0 +1,8 @@
+/build/
+.dep.inc
+/dist/
+/nbproject/
+atividade2_veiculos.exe.stackdump
+Makefile
+
+
